@@ -28,7 +28,7 @@
     <div class="container mt-5">
         <h1>Welcome, <?php echo $name; ?>!</h1>
 
-    <p>Current date and time: <?php echo $currentDateTime; ?></p>
+        <p>Current date and time: <?php echo $currentDateTime; ?></p>
 
         <p>Last visit: <?php echo $lastVisit; ?></p>
 
